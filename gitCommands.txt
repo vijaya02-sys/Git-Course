@@ -26,5 +26,9 @@ git push --tags ----------------- push tags to the remote repository
 
 git k  -- ??? 
 
+!!
+
+git commit -a -m "commit message"
+
 
 
