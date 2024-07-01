@@ -1,0 +1,1 @@
+Git Learning has all the required concepts needed to build and store the project on git.

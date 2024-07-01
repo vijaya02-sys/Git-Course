@@ -33,4 +33,10 @@ git diff
 git diff --staged
 
 
+created readme.md file
+
+git add .  -- to add all the files to staging area
+
+
+
 
