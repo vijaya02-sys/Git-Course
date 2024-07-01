@@ -1,0 +1,5 @@
+git checkout -b <new-branch- name>
+git branch
+git switch <branch-name>
+git switch -c <new-branch-name>
+
