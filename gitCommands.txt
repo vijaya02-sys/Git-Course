@@ -22,7 +22,9 @@ git tag <tag-name> -------------- create a lightweight tag at the current commit
 git push --tags ----------------- push tags to the remote repository
 
 
+!!
 
+git k  -- ??? 
 
 
 
