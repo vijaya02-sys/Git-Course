@@ -1,0 +1,28 @@
+Git Commands -------------------- Purpose
+
+git clone <repository-url> ------ clone a repository from GitHub
+git init ------------------------ Initialize a new git repository locally
+git add <file> ------------------ add a file to the staging area
+git commit -m "commit message" -- commit changes to the local repository
+git push origin <branch-name> --- Push commits to a remote repository on GitHub
+git pull origin <branch-name> --- fetch and merge changes from a remote repository
+git branch ---------------------- list local branches 
+git branch -a ------------------- list all branches (local and remote)
+git checkout <branch-name> ------ switch to a specified branch
+git checkout -b <new-branch-name> - create and switch to a new branch
+git merge <branch-name> --------- merge changes from a specified branch
+git status ---------------------- show the current status of the repository
+git log ------------------------- display the commit history
+git remote -v ------------------- list remote repositories
+git remote add origin <repository-url> - add a remote repository 
+git remote remove origin -------- remove a remote repository
+git fetch ----------------------- fetch changes from the remote repository
+git reset --hard ---------------- reset the current branch to the last commit
+git tag <tag-name> -------------- create a lightweight tag at the current commit
+git push --tags ----------------- push tags to the remote repository
+
+
+
+
+
+
