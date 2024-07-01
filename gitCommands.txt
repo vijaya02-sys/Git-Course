@@ -29,6 +29,8 @@ git k  -- ???
 !!
 
 git commit -a -m "commit message"
+git diff 
+git diff --staged
 
 
 
